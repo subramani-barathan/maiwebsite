@@ -55,7 +55,8 @@ export const userData = [
       pkgNorms: "Cartons & Trays In Shrink Wrapped.",
       bstBfr: "24 Months",
       flavour: "Peanut Butter Crunchy",
-      form: "Paste"
+      form: "Paste",
+      setHome:true
     },
     {
       prodID:2,
@@ -67,7 +68,8 @@ export const userData = [
       pkgNorms: "Cartons & Trays In Shrink Wrapped.",
       bstBfr: "24 Months",
       flavour: "Peanut Butter Smooth",
-      form: "Paste"
+      form: "Paste",
+      setHome:true
     },
     {
       prodID:3,
@@ -79,7 +81,8 @@ export const userData = [
       pkgNorms: "Cartons & Trays In Shrink Wrapped.",
       bstBfr: "24 Months",
       flavour: "Peanut Butter Natural",
-      form: "Paste"
+      form: "Paste",
+      setHome:true
     },
     {
       prodID:4,
@@ -91,7 +94,8 @@ export const userData = [
       pkgNorms: "Cartons & Trays In Shrink Wrapped.",
       bstBfr: "24 Months",
       flavour: "Peanut Butter Chocolate",
-      form: "Paste"
+      form: "Paste",
+      setHome:true
     },
     {
       prodID:5,
@@ -103,7 +107,8 @@ export const userData = [
       pkgNorms: "Cartons & Trays In Shrink Wrapped.",
       bstBfr: "24 Months",
       flavour: "Peanut Butter Honey",
-      form: "Paste"
+      form: "Paste",
+      setHome:true
     },
     {
       prodID:6,
@@ -115,7 +120,8 @@ export const userData = [
       pkgNorms: "Cartons & Trays In Shrink Wrapped.",
       bstBfr: "24 Months",
       flavour: "Peanut Butter Less Fat",
-      form: "Paste"
+      form: "Paste",
+      setHome:true
     },
     {
       prodID:7,
@@ -127,7 +133,8 @@ export const userData = [
       pkgNorms: "Cartons & Trays In Shrink Wrapped.",
       bstBfr: "24 Months",
       flavour: "Peanut Butter Whole Nut",
-      form: "Paste"
+      form: "Paste",
+      setHome:true
     },
     {
       prodID:8,
@@ -139,7 +146,8 @@ export const userData = [
       pkgNorms: "Cartons & Trays In Shrink Wrapped.",
       bstBfr: "24 Months",
       flavour: "Peanut Butter Sugar Free",
-      form: "Paste"
+      form: "Paste",
+      setHome:true
     },
     {
       prodID:9,
@@ -151,7 +159,8 @@ export const userData = [
       pkgNorms: "Cartons & Trays In Shrink Wrapped.",
       bstBfr: "24 Months",
       flavour: "Roasted Peanut",
-      form: "Natural"
+      form: "Natural",
+      setHome:true
     },
     {
       prodID:10,
@@ -163,7 +172,8 @@ export const userData = [
       pkgNorms: "Cartons & Trays In Shrink Wrapped.",
       bstBfr: "24 Months",
       flavour: "Splitted Peanut",
-      form: "Natural"
+      form: "Natural",
+      setHome:true
     },
     {
       prodID:11,
@@ -175,7 +185,8 @@ export const userData = [
       pkgNorms: "Cartons & Trays In Shrink Wrapped.",
       bstBfr: "24 Months",
       flavour: "Peanut Paste",
-      form: "Paste"
+      form: "Paste",
+      setHome:true
     },
     {
       prodID:12,
@@ -187,7 +198,8 @@ export const userData = [
       pkgNorms: "Cartons & Trays In Shrink Wrapped.",
       bstBfr: "24 Months",
       flavour: "Peanut Butter",
-      form: "Paste"
+      form: "Paste",
+      setHome:true
     }
   ];
  
