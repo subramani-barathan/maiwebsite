@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.891fc018.chunk.css",
+    "main.js": "/static/js/main.7f6445eb.chunk.js",
+    "main.js.map": "/static/js/main.7f6445eb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.de25c09b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.de25c09b.js.map",
+    "static/js/2.52714cd0.chunk.js": "/static/js/2.52714cd0.chunk.js",
+    "static/js/2.52714cd0.chunk.js.map": "/static/js/2.52714cd0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.891fc018.chunk.css.map": "/static/css/main.891fc018.chunk.css.map",
+    "static/js/2.52714cd0.chunk.js.LICENSE.txt": "/static/js/2.52714cd0.chunk.js.LICENSE.txt",
+    "static/media/card-item-1.09991e33.png": "/static/media/card-item-1.09991e33.png",
+    "static/media/card-item-2.822f87c8.png": "/static/media/card-item-2.822f87c8.png",
+    "static/media/card-item-3.ae169384.png": "/static/media/card-item-3.ae169384.png",
+    "static/media/client.c0304eb0.png": "/static/media/client.c0304eb0.png",
+    "static/media/logo.57b8861d.png": "/static/media/logo.57b8861d.png",
+    "static/media/siteindex.css": "/static/media/tasty-image.186cab72.png",
+    "static/media/slide-img.72f49b02.png": "/static/media/slide-img.72f49b02.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de25c09b.js",
+    "static/js/2.52714cd0.chunk.js",
+    "static/css/main.891fc018.chunk.css",
+    "static/js/main.7f6445eb.chunk.js"
+  ]
+}
