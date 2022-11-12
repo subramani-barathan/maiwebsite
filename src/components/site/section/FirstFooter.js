@@ -71,7 +71,7 @@ const Slider = () => {
               <div className="form_container">
                 <form action="">
                   <input type="email" />
-                  <button type="submit">Subscribe</button>
+                  <button type="submit">Send</button>
                 </form>
               </div>
             </div>
