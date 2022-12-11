@@ -1,11 +1,8 @@
 import { Link } from "react-router-dom";
 
-import cardItemOne from "../../../assets/images/card-item-1.png";
-import cardItemTwo from "../../../assets/images/card-item-2.png";
-import cardItemThree from "../../../assets/images/card-item-3.png";
-
 import client from "../../../assets/images/client.png";
 import Slider from "../section/Slider";
+import HomeProducts from '../section/HomeProduct';
 import FirstFooter from "../section/FirstFooter";
 const Home = () => {
   return (
@@ -13,72 +10,7 @@ const Home = () => {
       <div className="hero_area">
         <Slider />
       </div>
-      <section className="service_section layout_padding ">
-        <div className="container">
-          <h2 className="custom_heading">Our Products</h2>
-          <p className="custom_heading-text">
-            There are many variations of passages of Lorem Ipsum available, but
-            the majority have
-          </p>
-          <div className=" layout_padding2">
-            <div className="card-deck">
-              <div className="card">
-                <img
-                  className="card-img-top"
-                  src={cardItemOne}
-                  alt="Card cap"
-                />
-                <div className="card-body">
-                  <h5 className="card-title">Roasted Peanuts</h5>
-                  <p className="card-text">
-                    There are many variations of passages of Lorem Ipsum
-                    available, but the majority have suffered alteration in some
-                    form, by injected humour, or randomised words which don't
-                    look even slightly believable.
-                  </p>
-                </div>
-              </div>
-              <div className="card">
-                <img
-                  className="card-img-top"
-                  src={cardItemTwo}
-                  alt="Card cap"
-                />
-                <div className="card-body">
-                  <h5 className="card-title">Splited Peanuts</h5>
-                  <p className="card-text">
-                    There are many variations of passages of Lorem Ipsum
-                    available, but the majority have suffered alteration in some
-                    form, by injected humour, or randomised words which don't
-                    look even slightly believable.
-                  </p>
-                </div>
-              </div>
-              <div className="card">
-                <img
-                  className="card-img-top"
-                  src={cardItemThree}
-                  alt="Card cap"
-                />
-                <div className="card-body">
-                  <h5 className="card-title">Peanut Butter</h5>
-                  <p className="card-text">
-                    There are many variations of passages of Lorem Ipsum
-                    available, but the majority have suffered alteration in some
-                    form, by injected humour, or randomised words which don't
-                    look even slightly believable.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="d-flex justify-content-center">
-            <Link to="" className="custom_dark-btn">
-              Read More
-            </Link>
-          </div>
-        </div>
-      </section>
+      <HomeProducts/>
       <section className="tasty_section">
         <div className="container_fluid">
           <h2>Very tasty fruits</h2>

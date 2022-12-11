@@ -11,7 +11,7 @@ function App() {
         <Route exact path="/" element={<Main page="Home" />} />
         <Route path="/about" element={<Main page="About" />} />
         <Route path="/contact" element={<Main page="Contact" />} />
-        <Route path="/product" element={<Main page="Product" />} />
+        <Route path="/products" element={<Main page="Product" />} />
       </Routes>
     </BrowserRouter>
   );

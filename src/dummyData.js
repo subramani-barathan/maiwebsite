@@ -56,7 +56,7 @@ export const userData = [
       bstBfr: "24 Months",
       flavour: "Peanut Butter Crunchy",
       form: "Paste",
-      setHome:true
+      setHome:false
     },
     {
       prodID:2,
@@ -69,7 +69,7 @@ export const userData = [
       bstBfr: "24 Months",
       flavour: "Peanut Butter Smooth",
       form: "Paste",
-      setHome:true
+      setHome:false
     },
     {
       prodID:3,
@@ -82,7 +82,7 @@ export const userData = [
       bstBfr: "24 Months",
       flavour: "Peanut Butter Natural",
       form: "Paste",
-      setHome:true
+      setHome:false
     },
     {
       prodID:4,
@@ -95,7 +95,7 @@ export const userData = [
       bstBfr: "24 Months",
       flavour: "Peanut Butter Chocolate",
       form: "Paste",
-      setHome:true
+      setHome:false
     },
     {
       prodID:5,
@@ -108,7 +108,7 @@ export const userData = [
       bstBfr: "24 Months",
       flavour: "Peanut Butter Honey",
       form: "Paste",
-      setHome:true
+      setHome:false
     },
     {
       prodID:6,
@@ -121,7 +121,7 @@ export const userData = [
       bstBfr: "24 Months",
       flavour: "Peanut Butter Less Fat",
       form: "Paste",
-      setHome:true
+      setHome:false
     },
     {
       prodID:7,
@@ -134,7 +134,7 @@ export const userData = [
       bstBfr: "24 Months",
       flavour: "Peanut Butter Whole Nut",
       form: "Paste",
-      setHome:true
+      setHome:false
     },
     {
       prodID:8,
@@ -147,12 +147,12 @@ export const userData = [
       bstBfr: "24 Months",
       flavour: "Peanut Butter Sugar Free",
       form: "Paste",
-      setHome:true
+      setHome:false
     },
     {
       prodID:9,
       name: 'Roasted Peanuts',
-      image: "4000",
+      image: "../../../assets/images/card-item-1.png",
       incrd:"Peanuts (99%)",
       details: "",
       availPkg: "250 GRM, 283 GRM, 340 GRM,400 GRM, 410 GRM, 500 GRM , 510 GRM, 795 GRM, 1 KG & Bulk Packing As Per Customer Requirement.",
@@ -165,7 +165,7 @@ export const userData = [
     {
       prodID:10,
       name: 'Splited Peanuts',
-      image: "4000",
+      image: "../../../assets/images/card-item-2.png",
       incrd:"Peanuts (99%)",
       details: "",
       availPkg: "250 GRM, 283 GRM, 340 GRM,400 GRM, 410 GRM, 500 GRM , 510 GRM, 795 GRM, 1 KG & Bulk Packing As Per Customer Requirement.",
@@ -178,7 +178,7 @@ export const userData = [
     {
       prodID:11,
       name: 'Peanut Paste',
-      image: "4000",
+      image: "../../../assets/images/card-item-3.png",
       incrd:"Peanuts (94%), Peanut Oil, Emulsifier (E471) & Salt.",
       details: "",
       availPkg: "250 GRM, 283 GRM, 340 GRM,400 GRM, 410 GRM, 500 GRM , 510 GRM, 795 GRM, 1 KG & Bulk Packing As Per Customer Requirement.",
@@ -199,7 +199,7 @@ export const userData = [
       bstBfr: "24 Months",
       flavour: "Peanut Butter",
       form: "Paste",
-      setHome:true
+      setHome:false
     }
   ];
  
